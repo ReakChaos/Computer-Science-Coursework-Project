@@ -720,7 +720,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 619bc7c3c1cd00744b7659461abb255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delay: 10
+  delay: 7
   scene: Main Menu
 --- !u!1 &1123169391
 GameObject:

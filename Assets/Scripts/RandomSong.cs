@@ -4,11 +4,14 @@ using UnityEngine;
 
 public class RandomSong : MonoBehaviour
 {
+    // Expose songs array into the Unity Editor whilst keeping it private
     [SerializeField] private AudioClip[] songs;
+    // Reference to the AudioSource component
     private AudioSource myAudioSource;
     // Start is called before the first frame update
     void Start()
     {
+        // Makes sure the object stays in-between scene changes
         DontDestroyOnLoad(gameObject);
         myAudioSource = GetComponent<AudioSource>() ;
     }
@@ -23,6 +26,7 @@ public class RandomSong : MonoBehaviour
     }
     void playSong()
     {
+        // Plays a random song in the song array
         AudioClip song = songs[UnityEngine.Random.Range(0, songs.Length)];
         myAudioSource.PlayOneShot(song);
     }

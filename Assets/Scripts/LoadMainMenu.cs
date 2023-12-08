@@ -4,8 +4,8 @@ using UnityEngine.SceneManagement;
 
 public class LoadMainMenu : MonoBehaviour
 {
-    public float delay = 10; // delay in seconds
-    public string scene = "Main Menu"; // scene name to change to
+    private float delay = 7f; // delay in seconds
+    private string scene = "Main Menu"; // scene name to change to
     void Start()
     {
         StartCoroutine(LoadLMainMenuAfterDelay(delay)); //calls functions
