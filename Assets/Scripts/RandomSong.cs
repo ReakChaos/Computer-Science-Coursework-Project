@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class RandomSong : MonoBehaviour
@@ -8,13 +9,29 @@ public class RandomSong : MonoBehaviour
     [SerializeField] private AudioClip[] songs;
     // Reference to the AudioSource component
     private AudioSource myAudioSource;
+    // Creates variable referenced to this class
+    private static RandomSong instance;
     // Start is called before the first frame update
     void Start()
     {
+        myAudioSource = GetComponent<AudioSource>() ;  
+    }
+    void Awake()
+    {
+        // If there is no instance of the class, assigns current instance to instance variable
+        if (!instance)
+        {
+            instance = this;
+        }
+        // Otherwise kill the duplicate
+        else
+        {
+            Destroy(gameObject);
+        }
         // Makes sure the object stays in-between scene changes
         DontDestroyOnLoad(gameObject);
-        myAudioSource = GetComponent<AudioSource>() ;
     }
+    
     // Update is called once per frame
     void Update()
     {
