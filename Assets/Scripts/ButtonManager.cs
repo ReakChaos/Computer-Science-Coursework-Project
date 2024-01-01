@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class ButtonManager : MonoBehaviour
 {
     [SerializeField] private GameObject[] racePanels;
-    private bool clicked = false; // variable checking if a race button has been already pressed
+    private bool clicked; // variable checking if a race button has been already pressed
     private int panelNumber; // stores last panel number displayed
     public GameObject defaultNav;
     public GameObject onRaceNav;
