@@ -26,7 +26,7 @@ public class GarageManager : MonoBehaviour
 
     private void Awake()
     {
-        PlayerPrefs.SetInt("Level", 3);
+        PlayerPrefs.SetInt("Level",3);
         // gets button component of the select button
         ButtonSelect = selectButton.GetComponent<Button>();
         // initialises the selected counter with the player pref
@@ -102,7 +102,7 @@ public class GarageManager : MonoBehaviour
                 ButtonSelect.interactable = true;
             }
             
-            // if the car is not the selected car turn off the check mark and enable the button and vise versa
+            // if the car is not the selected car turn off the check mark and enable the button and vice versa
             if (vehiclePointer != selectedCounter)
             {
                 selectCheck.SetActive(false);
