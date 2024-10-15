@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d93ae6fd-c699-42b6-8aee-70183caf2f1c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Computer-Science-Coursework-Project-main/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Computer-Science-Coursework-Project-main/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AutoGrass.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AutoGrass.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cars/Car4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cars/Car4.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cars/PlayerCars/Car1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cars/PlayerCars/Car1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/Starting_Line.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/Starting_Line.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/license.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/materials/Ad_1_5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/materials/Ad_1_5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/materials/Ad_2_4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/materials/Ad_2_4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/materials/Start_Texture_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/materials/Start_Texture_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/materials/Starting_Sign_Mat_1_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/materials/Starting_Sign_Mat_1_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/materials/Starting_Sign_Mat_2_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/materials/Starting_Sign_Mat_2_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/materials/Starting_Sign_Mat_3_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/materials/Starting_Sign_Mat_3_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/meshes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/meshes/Starting Line_Ad 1_0_5_0.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/meshes/Starting Line_Ad 1_0_5_0.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/meshes/Starting Line_Ad 2_0_4_0.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/meshes/Starting Line_Ad 2_0_4_0.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/meshes/Starting Line_Start Texture_0_3_0.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/meshes/Starting Line_Start Texture_0_3_0.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/meshes/Starting Line_Starting Sign Mat 1_0_0_0.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/meshes/Starting Line_Starting Sign Mat 1_0_0_0.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/meshes/Starting Line_Starting Sign Mat 2_0_1_0.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/meshes/Starting Line_Starting Sign Mat 2_0_1_0.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/meshes/Starting Line_Starting Sign Mat 3_0_2_0.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/meshes/Starting Line_Starting Sign Mat 3_0_2_0.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/textures/Ad_1_baseColor_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/textures/Ad_1_baseColor_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/textures/Ad_2_baseColor_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/textures/Ad_2_baseColor_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/textures/Start_Texture_baseColor_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Import/Starting_Line/textures/Start_Texture_baseColor_0.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imported/EasyRoads3D scenes/Terrain Assets/sky ER.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imported/EasyRoads3D scenes/Terrain Assets/sky ER.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Terrain.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New Terrain.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Career.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Career.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Track1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Track1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Car Controllers/CarController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Car Controllers/CarController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../C#/Unity/DrivingAI_Project/Assets/Scripts/Drive.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../C#/Unity/Prototype 1/Assets/Scripts/FollowPlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AICarController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIMode1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrakingZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Car Controllers/Car3Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Car Controllers/Car4Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CountDown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InputManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2aQiEMVgdupdxxEWFcsd7Fqo04l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../UnityTest\Computer Science Coursework Project - Pursuit.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\dilsh\Documents\UnityTest" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files (x86)\Unity\Hub\Editor\Unity 2021.3.21f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\dilsh\Documents\GitHub\Computer-Science-Coursework-Project-main\Computer-Science-Coursework-Project-main -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\dilsh\Documents\GitHub\Computer-Science-Coursework-Project-main\Computer-Science-Coursework-Project-main" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d93ae6fd-c699-42b6-8aee-70183caf2f1c" name="Changes" comment="" />
+      <created>1704257091427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704257091427</updated>
+      <workItem from="1704257100568" duration="36801000" />
+      <workItem from="1704349984835" duration="1970000" />
+      <workItem from="1704516692561" duration="4977000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
